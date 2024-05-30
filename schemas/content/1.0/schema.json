@@ -1488,6 +1488,9 @@
           "items": {
             "type": "object"
           }
+        },
+        "demandId": {
+            "type": "string"
         }
     }
 }
