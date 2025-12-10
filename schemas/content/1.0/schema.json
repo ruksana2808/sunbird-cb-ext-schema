@@ -1558,6 +1558,7 @@
             "type": "string",
             "enum": [
                 "PendingRetirement",
+                "PendingApproval",
                 "Approved",
                 "Rejected"
             ]
