@@ -1553,6 +1553,14 @@
         },
         "languageMapV1": {
             "type": "object"
+        },
+        "contentStatus": {
+            "type": "string",
+            "enum": [
+                "PendingRetirement",
+                "Approved",
+                "Rejected"
+            ]
         }
     }
 }
