@@ -1559,7 +1559,6 @@
             "enum": [
                 "PendingRetirement",
                 "PendingApproval",
-                "Approved",
                 "Rejected"
             ]
         },
