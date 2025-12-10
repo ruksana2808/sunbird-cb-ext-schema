@@ -1554,7 +1554,7 @@
         "languageMapV1": {
             "type": "object"
         },
-        "contentStatus": {
+        "contentRetiredStatus": {
             "type": "string",
             "enum": [
                 "PendingRetirement",
